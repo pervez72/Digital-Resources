@@ -24,7 +24,7 @@
 * [Rachel’s English](https://www.youtube.com/user/rachelsenglish)
 * [Learn English with](https://www.youtube.com/channel/UCeTVoczn9NOZA9blls3YgUg)
 * [6 Minute English Podcast](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english)
-* [Udemy](https://www.udemy.com/topic/english-language/Udemy%3C/a)-fun video
+* [Udemy](https://www.udemy.com/topic/english-language/Udemy%3C/a)
 
 ### Mobile Applications for Learning English
 
