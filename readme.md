@@ -1,5 +1,5 @@
-#ALL Digital Recouces
+# ALL Digital Recouces
 
 > 
 
-##CSE  
+## CSE  
