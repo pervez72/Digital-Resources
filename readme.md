@@ -1,5 +1,5 @@
 # ALL Digital Recouces
-
+---
 > this topic in Enlish
 
 ## English 
@@ -16,10 +16,16 @@
 
 ### YouTube Channel Link
 * [VOA Learning English](https://www.youtube.com/user/VOALearningEnglish)
-* [Rachel’s English](Rachel’s English)
+* [Rachel’s English](https://www.youtube.com/user/rachelsenglish)
 * [Learn English with](https://www.youtube.com/channel/UCeTVoczn9NOZA9blls3YgUg)
 * [6 Minute English Podcast](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english)
-* [Udemy](https://www.udemy.com/topic/english-language/Udemy%3C/a)-[fun video]
+* [Udemy](https://www.udemy.com/topic/english-language/Udemy%3C/a)-fun video
 
+### Applications (Website) for Learning English
+* [Duolingo](https://www.duolingo.com/)
+* [HelloTalk](https://www.hellotalk.com/)
+* [English Forward](https://www.englishforums.com/)
+* [Reading Duck](https://readingduck.com/)
+* [Talk English](https://www.talkenglish.com/#google_vignette)
 
 
