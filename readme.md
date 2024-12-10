@@ -1,6 +1,6 @@
 # ALL Digital Recouces
 
-> 
+> this topic in Enlish
 
 ## English 
 
@@ -14,6 +14,12 @@
 * [5 Minute English](https://5minuteenglish.com/)
 * [Cambridge Dictionary](https://dictionary.cambridge.org/)
 
+### YouTube Channel Link
+* [VOA Learning English](https://www.youtube.com/user/VOALearningEnglish)
+* [Rachel’s English](Rachel’s English)
+* [Learn English with](https://www.youtube.com/channel/UCeTVoczn9NOZA9blls3YgUg)
+* [6 Minute English Podcast](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english)
+* [Udemy](https://www.udemy.com/topic/english-language/Udemy%3C/a)-[fun video]
 
 
 
