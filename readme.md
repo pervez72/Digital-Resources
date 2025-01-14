@@ -12,7 +12,7 @@
 * [5 Minute English](https://5minuteenglish.com/)
 * [Cambridge Dictionary](https://dictionary.cambridge.org/)
 
-#### pplications (Website) for Learning English
+#### Aplications (Website) for Learning English
 * [Duolingo](https://www.duolingo.com/)
 * [HelloTalk](https://www.hellotalk.com/)
 * [English Forward](https://www.englishforums.com/)
